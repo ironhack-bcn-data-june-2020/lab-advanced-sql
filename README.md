@@ -1,10 +1,10 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Lab | Advanced MySQL
+# Lab | Advanced SQL
 
 ## Introduction
 
-In this lab you will practice SQL Subqueries and Action Queries. We will again use the publications database.
+In this lab you will practice SQL Subqueries and Action Queries. We will again use the publications database, used in the past lab.
 
 Create a `solutions.ipynb` file in the `your-code` directory to record your solutions to all challenges.
 
